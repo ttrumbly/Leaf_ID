@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title> About the Project </title>
+  <link rel='stylesheet' href='/static/mypage.css' />
+  <style>
+
+span{z-index:10; position:relative}
+div{z-index:1; position:relative}
+
+  </style>
+
+</style>
+<body>
+  <ul>
+    <li><a href="/leaf.html">Leaf Identifier Homepage</a></li>
+  </ul>
+
+<h1>Project Design<br></h1>
+This project was built off of a VGG-16 Convolutional Neural network. <br>
+I initialized the model with the <a href='www.image-net.com'>ImageNet</a> weights and proceeded to retrain the model with transfer learning. The model was trained on pictures that are 244x244 pixels in RGB channels. <br>
+The top 12 layers were frozen and the ImageNet weights were maintained. The bottom 4 layers were retrained on images of tree leaves and boughs. <br>
+The dataset included approximately 550 pictures of each of 7 classes of trees and was additionally augmented with computer generated images based on rotations, scalings, skewing of original images. <br>
+The model utilized multiple fully connected layers
+
+This project was built off of a VGG-16 Convolutional Neural Network. The model benefits from a strategy known as transfer learning.<br>
+I initialized the model with the VGG-16 Imagenet weights and proceeded to retrain it. The model scaled images to 244x244 pixels in 3 color channels.<br>
+The VGG-16 model features multiple sets of convolution layers followed by pooling layers. I tested many combinations and found that freezing the top 12 layers and retraining the weights of the bottom 4 layers (3 convolution layers and 1 pooling layer) provided the best results. I added dropout and two fully connected layers before having the model identify pictures as one of 7 categories.<br>
+On out of sample test data, the model has approximately 80% accuracy, precision, and recall across the 7 classes. It performs best on Alder and Cedar classification and struggles with distinguishing between Douglas Fir trees and Fir trees.<br>
+I encourage you to take pictures and upload them to test the model out. I have included sample images of each classification to assist in your understanding of the various tree categories.<br>
+It is also worth noting, this is not an exhaustive list of trees found in the Pacific Northwest. This list of trees was based on my ability to find enough pictures to have a large enough dataset to train the model. There are many different future directions this project could go in and ways I can extend this proof of concept. <br>
+I could augment each of the current classifications with additional datapoint to help improve model performance. I could gather pictures of additional tree genera to increase the number of categories. I could extend the model to identifying trees by species instead of genus which would require collecting significantly more data. I believe to have a really successful model, it would be ideal to build a model that makes predictions based on images of leaves, bark, and fruit. This is a larger extension of the project that is outside of my current scope.<br>
+
+<img src='static/images/confusion_matrix.png' width='600' height='600' border='0'>

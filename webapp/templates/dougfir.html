@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title> Douglas Fir Tree </title>
+  <link rel='stylesheet' href='/static/mypage.css' />
+  <style>
+
+span{z-index:10; position:relative}
+div{z-index:1; position:relative}
+
+  </style>
+
+</style>
+<body>
+  <ul>
+    <li><a href="/leaf.html">Leaf Identifier Homepage</a></li>
+    <li><a href='/about.html'>About the Project</a></li>
+  </ul>
+<table width='900' border='0' cellpadding='5'>
+  <tbody>
+    <tr>
+      <td align ='left' valign='top'>
+        <p class='pagetitle'>
+          My best guess: Douglas Fir Bough
+        </p>
+        <ul><li>
+          <span style='color:white'>
+            Here are other images of douglas fir trees for reference.
+          </span>
+        </li>
+        <table border='5' align='center'>
+          <tbody>
+            <tr>
+              <th>
+                <a href='static/images/dougfir/dougfir_bough.jpg'>
+                  <img src='static/images/dougfir/dougfir_bough.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/dougfir/dougfir_bark.jpg'>
+                  <img src='static/images/dougfir/dougfir_bark.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/dougfir/dougfir_cone.jpg'>
+                  <img src='static/images/dougfir/dougfir_cone.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/dougfir/dougfir_buds.jpg'>
+                  <img src='static/images/dougfir/dougfir_buds.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/dougfir/dougfir_needle.gif'>
+                  <img src='static/images/dougfir/dougfir_needle.gif' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/dougfir/dougfir_tree.jpg'>
+                  <img src='static/images/dougfir/dougfir_tree.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<br>
+Hopefully the reference images match what you are seeing. If not, the model may have made a mistake.<br>
+If you would like to try again, please upload another picture.<br>
+
+<form action="/upload" method="POST" enctype="multipart/form-data" >
+    <span class="btn btn-default btn-file">
+      Browse <input type="file" name="image">
+    </span>
+
+  <input type="submit" value="Upload your image" class="btn btn-primary">
+</form>

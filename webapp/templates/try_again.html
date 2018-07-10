@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title> Leaf Identification Page </title>
+  <link rel='stylesheet' href='/static/mypage.css' />
+  <style>
+
+span{z-index:10; position:relative}
+div{z-index:1; position:relative}
+
+  </style>
+
+</style>
+<body>
+  <ul>
+    <li><a href="/leaf.html">Leaf Identifier Homepage</a></li>
+    <li><a href='/about.html'>About the Project</a></li>
+  </ul>
+<br>
+This does not appear to be a valid filetype. <br>
+Please upload a jpg, jpeg, or png file.<br>
+<br>
+
+<form action="/upload" method="POST" enctype="multipart/form-data" >
+    <span class="btn btn-default btn-file">
+      Browse <input type="file" name="image">
+    </span>
+
+  <input type="submit" value="Upload your image" class="btn btn-primary">
+</form>

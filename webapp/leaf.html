@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Leaf Identification</title>
+  <link rel='stylesheet' href='/static/mypage.css' />
+  <style>
+
+span{z-index:10; position:relative}
+div{z-index:1; position:relative}
+
+  </style>
+
+</style>
+<body>
+  <ul>
+    <li><a href="/index.html">Home</a></li>
+    <li><a href='/about.html'>About the Project</a></li>
+  </ul>
+
+<h1> Welcome to my leaf identification page</h1>
+Please select a picture of a leaf from your device to upload.
+<br>
+<br>
+<br>
+<h2>
+<form action="/upload" method="POST" enctype="multipart/form-data" >
+    <span class="btn btn-default btn-file">
+      Browse <input type="file" name="image">
+    </span>
+</h2>
+  <input type="submit" value="Upload your image" class="btn btn-primary">
+</form>
+<br>
+<br>
+<br>
+This model attempts to identify tree genus from user provided pictures.<br>
+It is currently trained on leaves from 7 tree genera from the Pacific Northwest.
+These are:<br>
+Alder (genus Alnus)<br>
+False Cedar(genus Calocedrus, Thuja, Chamaecyparis)<br>
+Douglas Fir(genus Pseudotsuga)<br>
+True Fir (genus Abies)<br>
+Maple (genus Acer)<br>
+Oak (genus Quercus)<br>
+Pine (genus Pinus)

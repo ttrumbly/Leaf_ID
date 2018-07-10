@@ -1,0 +1,413 @@
+[Tue Jun 19 06:25:09.929686 2018] [wsgi:warn] [pid 12485:tid 139991369475968] mod_wsgi: Compiled for Python/3.5.1+.
+[Tue Jun 19 06:25:09.929708 2018] [wsgi:warn] [pid 12485:tid 139991369475968] mod_wsgi: Runtime using Python/3.5.2.
+[Tue Jun 19 06:25:09.930204 2018] [mpm_event:notice] [pid 12485:tid 139991369475968] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Tue Jun 19 06:25:09.930217 2018] [core:notice] [pid 12485:tid 139991369475968] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 19 06:27:51.647872 2018] [wsgi:error] [pid 13180:tid 139991259281152] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Tue Jun 19 06:28:01.586964 2018] [wsgi:error] [pid 13180:tid 139991259281152] /usr/local/lib/python3.5/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Tue Jun 19 06:28:01.586992 2018] [wsgi:error] [pid 13180:tid 139991259281152]   """)
+[Wed Jun 20 06:10:41.123656 2018] [mpm_event:notice] [pid 12485:tid 139991369475968] AH00491: caught SIGTERM, shutting down
+[Wed Jun 20 06:12:29.264361 2018] [wsgi:warn] [pid 1292:tid 140707907524480] mod_wsgi: Compiled for Python/3.5.1+.
+[Wed Jun 20 06:12:29.301496 2018] [wsgi:warn] [pid 1292:tid 140707907524480] mod_wsgi: Runtime using Python/3.5.2.
+[Wed Jun 20 06:12:29.302505 2018] [mpm_event:notice] [pid 1292:tid 140707907524480] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Wed Jun 20 06:12:29.302519 2018] [core:notice] [pid 1292:tid 140707907524480] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:13:56.698316 2018] [wsgi:error] [pid 1296:tid 140707763758848] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Wed Jun 20 06:14:02.373242 2018] [wsgi:error] [pid 1296:tid 140707763758848] /usr/local/lib/python3.5/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Wed Jun 20 06:14:02.373274 2018] [wsgi:error] [pid 1296:tid 140707763758848]   """)
+[Wed Jun 20 06:15:02.049674 2018] [mpm_event:notice] [pid 1292:tid 140707907524480] AH00491: caught SIGTERM, shutting down
+[Wed Jun 20 06:15:34.853541 2018] [wsgi:warn] [pid 1311:tid 140087653152640] mod_wsgi: Compiled for Python/3.5.1+.
+[Wed Jun 20 06:15:34.853904 2018] [wsgi:warn] [pid 1311:tid 140087653152640] mod_wsgi: Runtime using Python/3.5.2.
+[Wed Jun 20 06:15:34.854818 2018] [mpm_event:notice] [pid 1311:tid 140087653152640] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Wed Jun 20 06:15:34.854834 2018] [core:notice] [pid 1311:tid 140087653152640] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:24:34.165483 2018] [mpm_event:notice] [pid 1311:tid 140087653152640] AH00491: caught SIGTERM, shutting down
+[Wed Jun 20 06:25:15.169857 2018] [wsgi:warn] [pid 1367:tid 140352726833024] mod_wsgi: Compiled for Python/3.5.1+.
+[Wed Jun 20 06:25:15.170148 2018] [wsgi:warn] [pid 1367:tid 140352726833024] mod_wsgi: Runtime using Python/3.5.2.
+[Wed Jun 20 06:25:15.171021 2018] [mpm_event:notice] [pid 1367:tid 140352726833024] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Wed Jun 20 06:25:15.171038 2018] [core:notice] [pid 1367:tid 140352726833024] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:26:08.057103 2018] [mpm_event:notice] [pid 1367:tid 140352726833024] AH00494: SIGHUP received.  Attempting to restart
+[Wed Jun 20 06:26:08.109339 2018] [wsgi:warn] [pid 1367:tid 140352726833024] mod_wsgi: Compiled for Python/3.5.1+.
+[Wed Jun 20 06:26:08.109354 2018] [wsgi:warn] [pid 1367:tid 140352726833024] mod_wsgi: Runtime using Python/3.5.2.
+[Wed Jun 20 06:26:08.110134 2018] [mpm_event:notice] [pid 1367:tid 140352726833024] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Wed Jun 20 06:26:08.110151 2018] [core:notice] [pid 1367:tid 140352726833024] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:31:58.466392 2018] [wsgi:error] [pid 1594:tid 140352616638208] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Wed Jun 20 06:31:59.651890 2018] [wsgi:error] [pid 1594:tid 140352616638208] /usr/local/lib/python3.5/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Wed Jun 20 06:31:59.651916 2018] [wsgi:error] [pid 1594:tid 140352616638208]   """)
+[Wed Jun 20 06:32:53.332711 2018] [mpm_event:notice] [pid 1367:tid 140352726833024] AH00491: caught SIGTERM, shutting down
+[Wed Jun 20 06:34:11.336123 2018] [wsgi:warn] [pid 1341:tid 140548198791040] mod_wsgi: Compiled for Python/3.5.1+.
+[Wed Jun 20 06:34:11.336483 2018] [wsgi:warn] [pid 1341:tid 140548198791040] mod_wsgi: Runtime using Python/3.5.2.
+[Wed Jun 20 06:34:11.337495 2018] [mpm_event:notice] [pid 1341:tid 140548198791040] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Wed Jun 20 06:34:11.337511 2018] [core:notice] [pid 1341:tid 140548198791040] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:37:16.988230 2018] [wsgi:error] [pid 1345:tid 140547987818240] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Wed Jun 20 06:37:18.102124 2018] [wsgi:error] [pid 1345:tid 140547987818240] /usr/local/lib/python3.5/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Wed Jun 20 06:37:18.102154 2018] [wsgi:error] [pid 1345:tid 140547987818240]   """)
+[Wed Jun 20 06:38:06.639408 2018] [mpm_event:notice] [pid 1341:tid 140548198791040] AH00491: caught SIGTERM, shutting down
+[Thu Jun 21 03:41:39.391884 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Compiled for Python/3.5.1+.
+[Thu Jun 21 03:41:39.392436 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Runtime using Python/3.5.2.
+[Thu Jun 21 03:41:39.393423 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Thu Jun 21 03:41:39.393467 2018] [core:notice] [pid 1339:tid 140642255210368] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 21 04:01:51.367629 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00494: SIGHUP received.  Attempting to restart
+[Thu Jun 21 04:01:51.419673 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Compiled for Python/3.5.1+.
+[Thu Jun 21 04:01:51.419689 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Runtime using Python/3.5.2.
+[Thu Jun 21 04:01:51.420577 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Thu Jun 21 04:01:51.420594 2018] [core:notice] [pid 1339:tid 140642255210368] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 21 04:02:08.864045 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:02:10.058364 2018] [wsgi:error] [pid 2728:tid 140642052613888] Using TensorFlow backend.
+[Thu Jun 21 04:02:12.090162 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:02:12.090219 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:02:12.095734 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:02:12.095784 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:02:12.095789 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:02:12.095796 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:02:12.095800 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:02:12.095805 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:02:12.095808 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:02:12.095814 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:02:12.095817 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:02:12.095823 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:02:12.095826 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:02:12.095831 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 4, in <module>
+[Thu Jun 21 04:02:12.095834 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..engine.base_layer import Layer
+[Thu Jun 21 04:02:12.095840 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:02:12.095843 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:02:12.095848 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:02:12.095851 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:02:12.095856 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:02:12.095866 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:02:12.095885 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:02:12.482962 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:02:12.485099 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:02:12.485137 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:02:12.485289 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:02:12.485330 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:02:12.485334 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:02:12.485341 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:02:12.485344 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:02:12.485350 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:02:12.485353 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:02:12.485359 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:02:12.485363 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:02:12.485368 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:02:12.485372 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:02:12.485377 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:02:12.485380 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:02:12.485385 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:02:12.485388 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:02:12.485394 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:02:12.485397 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:02:12.485402 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:02:12.485413 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:02:12.485431 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:06:57.621763 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:06:57.623799 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:06:57.623835 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:06:57.623978 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] Traceback (most recent call last):
+[Thu Jun 21 04:06:57.624019 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:06:57.624024 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from flaskapp import app as application
+[Thu Jun 21 04:06:57.624030 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:06:57.624034 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     import keras
+[Thu Jun 21 04:06:57.624040 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:06:57.624043 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from . import utils
+[Thu Jun 21 04:06:57.624050 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:06:57.624053 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:06:57.624059 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:06:57.624062 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from ..layers.merge import concatenate
+[Thu Jun 21 04:06:57.624068 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:06:57.624071 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from ..engine import Input
+[Thu Jun 21 04:06:57.624076 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:06:57.624080 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from .training import Model
+[Thu Jun 21 04:06:57.624085 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:06:57.624089 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from . import training_arrays
+[Thu Jun 21 04:06:57.624103 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:06:57.624106 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from scipy.sparse import issparse
+[Thu Jun 21 04:06:57.624124 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] ImportError: No module named 'scipy'
+[Thu Jun 21 04:06:57.769459 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:06:57.771503 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:06:57.771538 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:06:57.771683 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] Traceback (most recent call last):
+[Thu Jun 21 04:06:57.771723 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:06:57.771727 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from flaskapp import app as application
+[Thu Jun 21 04:06:57.771734 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:06:57.771737 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     import keras
+[Thu Jun 21 04:06:57.771742 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:06:57.771746 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from . import utils
+[Thu Jun 21 04:06:57.771752 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:06:57.771755 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:06:57.771760 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:06:57.771763 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from ..layers.merge import concatenate
+[Thu Jun 21 04:06:57.771768 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:06:57.771771 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from ..engine import Input
+[Thu Jun 21 04:06:57.771776 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:06:57.771779 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from .training import Model
+[Thu Jun 21 04:06:57.771785 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:06:57.771788 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from . import training_arrays
+[Thu Jun 21 04:06:57.771802 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:06:57.771806 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from scipy.sparse import issparse
+[Thu Jun 21 04:06:57.771822 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] ImportError: No module named 'scipy'
+[Thu Jun 21 04:07:02.100659 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:07:02.102736 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:07:02.102770 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:07:02.102915 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:07:02.102956 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:07:02.102961 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:07:02.102967 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:07:02.102970 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:07:02.102976 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:07:02.102979 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:07:02.102985 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:07:02.102988 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:07:02.102994 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:07:02.102997 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:07:02.103003 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:07:02.103006 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:07:02.103011 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:07:02.103014 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:07:02.103019 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:07:02.103031 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:07:02.103037 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:07:02.103041 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:07:02.103058 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:07:04.694358 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:07:04.696520 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:07:04.696556 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:07:04.696701 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:07:04.696742 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:07:04.696746 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:07:04.696753 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:07:04.696757 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:07:04.696763 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:07:04.696766 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:07:04.696772 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:07:04.696775 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:07:04.696781 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:07:04.696784 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:07:04.696789 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:07:04.696793 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:07:04.696798 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:07:04.696801 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:07:04.696807 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:07:04.696818 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:07:04.696825 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:07:04.696828 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:07:04.696845 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:07:16.252116 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:07:16.254252 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:07:16.254286 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:07:16.254429 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] Traceback (most recent call last):
+[Thu Jun 21 04:07:16.254469 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:07:16.254474 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from flaskapp import app as application
+[Thu Jun 21 04:07:16.254481 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:07:16.254484 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     import keras
+[Thu Jun 21 04:07:16.254490 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:07:16.254493 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from . import utils
+[Thu Jun 21 04:07:16.254499 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:07:16.254502 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:07:16.254507 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:07:16.254511 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from ..layers.merge import concatenate
+[Thu Jun 21 04:07:16.254516 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:07:16.254519 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from ..engine import Input
+[Thu Jun 21 04:07:16.254525 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:07:16.254528 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from .training import Model
+[Thu Jun 21 04:07:16.254543 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:07:16.254547 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from . import training_arrays
+[Thu Jun 21 04:07:16.254552 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:07:16.254555 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051]     from scipy.sparse import issparse
+[Thu Jun 21 04:07:16.254572 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:36051] ImportError: No module named 'scipy'
+[Thu Jun 21 04:07:16.416349 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:07:16.418462 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:07:16.418496 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:07:16.418637 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:07:16.418676 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:07:16.418681 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:07:16.418687 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:07:16.418691 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:07:16.418696 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:07:16.418699 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:07:16.418705 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:07:16.418708 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:07:16.418714 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:07:16.418717 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:07:16.418722 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:07:16.418725 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:07:16.418730 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:07:16.418742 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:07:16.418748 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:07:16.418751 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:07:16.418757 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:07:16.418760 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:07:16.418777 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:10:00.550904 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:10:00.553100 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:10:00.553135 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:10:00.553443 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:10:00.553485 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:10:00.553490 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:10:00.553497 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:10:00.553500 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:10:00.553506 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:10:00.553509 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:10:00.553516 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:10:00.553519 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:10:00.553525 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:10:00.553528 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:10:00.553534 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:10:00.553546 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:10:00.553552 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:10:00.553555 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:10:00.553561 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:10:00.553564 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:10:00.553569 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:10:00.553572 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:10:00.553589 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:10:01.267614 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:10:01.269805 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:10:01.269838 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:10:01.269980 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] Traceback (most recent call last):
+[Thu Jun 21 04:10:01.270019 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:10:01.270023 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from flaskapp import app as application
+[Thu Jun 21 04:10:01.270030 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:10:01.270033 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     import keras
+[Thu Jun 21 04:10:01.270039 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:10:01.270042 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from . import utils
+[Thu Jun 21 04:10:01.270048 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:10:01.270051 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:10:01.270057 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:10:01.270060 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from ..layers.merge import concatenate
+[Thu Jun 21 04:10:01.270074 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:10:01.270078 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from ..engine import Input
+[Thu Jun 21 04:10:01.270083 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:10:01.270086 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from .training import Model
+[Thu Jun 21 04:10:01.270092 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:10:01.270095 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from . import training_arrays
+[Thu Jun 21 04:10:01.270100 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:10:01.270103 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085]     from scipy.sparse import issparse
+[Thu Jun 21 04:10:01.270119 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 96.81.156.74:38085] ImportError: No module named 'scipy'
+[Thu Jun 21 04:14:09.693187 2018] [wsgi:error] [pid 2728:tid 140642052613888] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:14:09.695406 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:14:09.695459 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:14:09.695604 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341] Traceback (most recent call last):
+[Thu Jun 21 04:14:09.695644 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:14:09.695649 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from flaskapp import app as application
+[Thu Jun 21 04:14:09.695656 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:14:09.695659 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     import keras
+[Thu Jun 21 04:14:09.695665 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:14:09.695668 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from . import utils
+[Thu Jun 21 04:14:09.695675 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:14:09.695678 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:14:09.695684 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:14:09.695696 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:14:09.695702 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:14:09.695706 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from ..engine import Input
+[Thu Jun 21 04:14:09.695711 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:14:09.695714 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from .training import Model
+[Thu Jun 21 04:14:09.695720 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:14:09.695723 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from . import training_arrays
+[Thu Jun 21 04:14:09.695728 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:14:09.695731 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:14:09.695748 2018] [wsgi:error] [pid 2728:tid 140642052613888] [remote 78.203.125.150:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:14:14.181472 2018] [wsgi:error] [pid 2728:tid 140642145015552] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:14:14.183780 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341] mod_wsgi (pid=2728): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:14:14.183817 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341] mod_wsgi (pid=2728): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:14:14.183963 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341] Traceback (most recent call last):
+[Thu Jun 21 04:14:14.184002 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:14:14.184007 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from flaskapp import app as application
+[Thu Jun 21 04:14:14.184013 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:14:14.184017 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     import keras
+[Thu Jun 21 04:14:14.184022 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:14:14.184025 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from . import utils
+[Thu Jun 21 04:14:14.184031 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:14:14.184043 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:14:14.184050 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:14:14.184053 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:14:14.184058 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:14:14.184061 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from ..engine import Input
+[Thu Jun 21 04:14:14.184066 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:14:14.184069 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from .training import Model
+[Thu Jun 21 04:14:14.184075 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:14:14.184078 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from . import training_arrays
+[Thu Jun 21 04:14:14.184083 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:14:14.184086 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:14:14.184103 2018] [wsgi:error] [pid 2728:tid 140642145015552] [remote 182.92.186.145:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:15:12.814101 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00494: SIGHUP received.  Attempting to restart
+[Thu Jun 21 04:15:13.007333 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Compiled for Python/3.5.1+.
+[Thu Jun 21 04:15:13.007355 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Runtime using Python/3.5.2.
+[Thu Jun 21 04:15:13.008347 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Thu Jun 21 04:15:13.008366 2018] [core:notice] [pid 1339:tid 140642255210368] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 21 04:15:18.534281 2018] [wsgi:error] [pid 3095:tid 140642145015552] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:15:18.944340 2018] [wsgi:error] [pid 3095:tid 140642145015552] /usr/local/lib/python3.5/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Thu Jun 21 04:15:18.944364 2018] [wsgi:error] [pid 3095:tid 140642145015552]   """)
+[Thu Jun 21 04:23:15.694899 2018] [core:warn] [pid 1339:tid 140642255210368] AH00045: child process 3096 still did not exit, sending a SIGTERM
+[Thu Jun 21 04:23:15.694968 2018] [core:warn] [pid 1339:tid 140642255210368] AH00045: child process 3097 still did not exit, sending a SIGTERM
+[Thu Jun 21 04:23:16.696126 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00494: SIGHUP received.  Attempting to restart
+[Thu Jun 21 04:23:16.889571 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Compiled for Python/3.5.1+.
+[Thu Jun 21 04:23:16.889600 2018] [wsgi:warn] [pid 1339:tid 140642255210368] mod_wsgi: Runtime using Python/3.5.2.
+[Thu Jun 21 04:23:16.890579 2018] [mpm_event:notice] [pid 1339:tid 140642255210368] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Thu Jun 21 04:23:16.890597 2018] [core:notice] [pid 1339:tid 140642255210368] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 21 04:24:22.622664 2018] [wsgi:error] [pid 3292:tid 140642111420160] ['/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:24:23.007319 2018] [wsgi:error] [pid 3292:tid 140642111420160] Using TensorFlow backend.
+[Thu Jun 21 04:24:23.842590 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341] mod_wsgi (pid=3292): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:24:23.842641 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341] mod_wsgi (pid=3292): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:24:23.843568 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:24:23.843617 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:24:23.843623 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:24:23.843630 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:24:23.843634 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:24:23.843640 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:24:23.843643 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:24:23.843649 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:24:23.843652 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:24:23.843658 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:24:23.843661 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:24:23.843667 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 4, in <module>
+[Thu Jun 21 04:24:23.843671 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from ..engine.base_layer import Layer
+[Thu Jun 21 04:24:23.843676 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:24:23.843679 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:24:23.843684 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:24:23.843697 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:24:23.843703 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:24:23.843706 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:24:23.843723 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:28:43.585141 2018] [wsgi:error] [pid 3292:tid 140642119821056] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:28:43.587235 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341] mod_wsgi (pid=3292): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:28:43.587270 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341] mod_wsgi (pid=3292): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:28:43.587412 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341] Traceback (most recent call last):
+[Thu Jun 21 04:28:43.587477 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:28:43.587482 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from flaskapp import app as application
+[Thu Jun 21 04:28:43.587489 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:28:43.587493 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     import keras
+[Thu Jun 21 04:28:43.587499 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:28:43.587502 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from . import utils
+[Thu Jun 21 04:28:43.587509 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:28:43.587512 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:28:43.587518 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:28:43.587522 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from ..layers.merge import concatenate
+[Thu Jun 21 04:28:43.587528 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:28:43.587531 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from ..engine import Input
+[Thu Jun 21 04:28:43.587536 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:28:43.587540 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from .training import Model
+[Thu Jun 21 04:28:43.587546 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:28:43.587556 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from . import training_arrays
+[Thu Jun 21 04:28:43.587563 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:28:43.587566 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341]     from scipy.sparse import issparse
+[Thu Jun 21 04:28:43.587582 2018] [wsgi:error] [pid 3292:tid 140642119821056] [remote 96.81.156.74:38341] ImportError: No module named 'scipy'
+[Thu Jun 21 04:31:57.448003 2018] [wsgi:error] [pid 3292:tid 140642111420160] ['/var/www/html/flaskapp', '/var/www/html/flaskapp', '/var/www/html/flaskapp', '/home/ubuntu/.local/lib/python3.5/site-packages', '/usr/lib/python35.zip', '/usr/lib/python3.5', '/usr/lib/python3.5/plat-x86_64-linux-gnu', '/usr/lib/python3.5/lib-dynload', '/usr/local/lib/python3.5/dist-packages', '/usr/lib/python3/dist-packages']
+[Thu Jun 21 04:31:57.450026 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085] mod_wsgi (pid=3292): Target WSGI script '/var/www/html/flaskapp/flaskapp.wsgi' cannot be loaded as Python module.
+[Thu Jun 21 04:31:57.450063 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085] mod_wsgi (pid=3292): Exception occurred processing WSGI script '/var/www/html/flaskapp/flaskapp.wsgi'.
+[Thu Jun 21 04:31:57.450204 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085] Traceback (most recent call last):
+[Thu Jun 21 04:31:57.450244 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/var/www/html/flaskapp/flaskapp.wsgi", line 4, in <module>
+[Thu Jun 21 04:31:57.450248 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from flaskapp import app as application
+[Thu Jun 21 04:31:57.450255 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/var/www/html/flaskapp/flaskapp.py", line 14, in <module>
+[Thu Jun 21 04:31:57.450259 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     import keras
+[Thu Jun 21 04:31:57.450265 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/__init__.py", line 3, in <module>
+[Thu Jun 21 04:31:57.450268 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from . import utils
+[Thu Jun 21 04:31:57.450274 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/__init__.py", line 25, in <module>
+[Thu Jun 21 04:31:57.450278 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from .multi_gpu_utils import multi_gpu_model
+[Thu Jun 21 04:31:57.450285 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/utils/multi_gpu_utils.py", line 7, in <module>
+[Thu Jun 21 04:31:57.450289 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from ..layers.merge import concatenate
+[Thu Jun 21 04:31:57.450294 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/layers/__init__.py", line 5, in <module>
+[Thu Jun 21 04:31:57.450298 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from ..engine import Input
+[Thu Jun 21 04:31:57.450303 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/__init__.py", line 8, in <module>
+[Thu Jun 21 04:31:57.450307 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from .training import Model
+[Thu Jun 21 04:31:57.450313 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training.py", line 21, in <module>
+[Thu Jun 21 04:31:57.450325 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from . import training_arrays
+[Thu Jun 21 04:31:57.450331 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]   File "/usr/local/lib/python3.5/dist-packages/keras/engine/training_arrays.py", line 8, in <module>
+[Thu Jun 21 04:31:57.450335 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085]     from scipy.sparse import issparse
+[Thu Jun 21 04:31:57.450350 2018] [wsgi:error] [pid 3292:tid 140642111420160] [remote 92.23.2.120:38085] ImportError: No module named 'scipy'

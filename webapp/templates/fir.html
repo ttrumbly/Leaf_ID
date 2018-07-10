@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title> Fir Tree </title>
+  <link rel='stylesheet' href='/static/mypage.css' />
+  <style>
+
+span{z-index:10; position:relative}
+div{z-index:1; position:relative}
+
+  </style>
+
+</style>
+<body>
+  <ul>
+    <li><a href="/leaf.html">Leaf Identifier Homepage</a></li>
+    <li><a href='/about.html'>About the Project</a></li>
+  </ul>
+<table width='500' border='0' align='center' cellpadding='5'>
+  <tbody>
+    <tr>
+      <td align ='left' valign='top'>
+        <p class='pagetitle'>
+          My best guess: Fir Bough
+        </p>
+        <ul><li>
+          <span style='color:white'>
+            Here are other images of fir trees for reference.
+          </span>
+        </li>
+        <table border='5' align='center'>
+          <tbody>
+            <tr>
+              <th>
+                <a href='static/images/fir/fir_needle.jpg'>
+                  <img src='static/images/fir/fir_needle.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/fir/fir_bark.jpg'>
+                  <img src='static/images/fir/fir_bark.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/fir/fir_bough.jpg'>
+                  <img src='static/images/fir/fir_bough.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/fir/fir_cone.jpg'>
+                  <img src='static/images/fir/fir_cone.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+              <th>
+                <a href='static/images/fir/fir_tree.jpg'>
+                  <img src='static/images/fir/fir_tree.jpg' width='150' height='150' border='0'>
+                </a>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<br>
+Hopefully the reference images match what you are seeing. If not, the model may have made a mistake.<br>
+If you would like to try again, please upload another picture.<br>
+
+<form action="/upload" method="POST" enctype="multipart/form-data" >
+    <span class="btn btn-default btn-file">
+      Browse <input type="file" name="image">
+    </span>
+
+  <input type="submit" value="Upload your image" class="btn btn-primary">
+</form>
